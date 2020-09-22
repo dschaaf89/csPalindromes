@@ -8,15 +8,21 @@ namespace Palindromes.Models
   {
     public bool IsPalindrome(string userInput)
     {
-      List<string> newList = userInput.Split("").ToList();
-      List<string> revList = new List<string>();
+      userInput = userInput.ToLower();
+      char[] newList = userInput.ToCharArray();
+      
+      List<char> revList = new List<char>();
 
-      for (int index = newList.Count; index > 0; index--)
+      int t = (newList.Length - 1);
+
+      for (int index = 0; index < newList.Length; index++)
       {
-        revList.Add(newList[index]);
+        revList.Add(newList[t]);
+        t--;
       }
       
       string newString = String.Join("", revList);
+
       if (newString == userInput)
       {
         return true;
