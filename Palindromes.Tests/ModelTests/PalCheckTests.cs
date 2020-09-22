@@ -1,16 +1,16 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName;
+using Palindromes;
 
-namespace ProjectName.Tests
+namespace Palindromes.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class PalCheckTests
   {
     [TestMethod]
-    public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
+    public void IsPalindrome_IsNotAPalindrome_False()
     {
-      // any necessary logic to prep for test; instantiating new classes, etc.
-      Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);
+      PalCheck palCheck = new PalCheck();
+      Assert.AreEqual(false , palCheck.IsPalindrome("hello"));
     }
   }
 }
