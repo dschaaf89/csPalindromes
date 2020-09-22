@@ -1,0 +1,17 @@
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csprojAssemblyReference.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.AssemblyInfoInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.AssemblyInfo.cs
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.deps.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.runtimeconfig.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.runtimeconfig.dev.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.Tests.pdb
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.csproj.CopyComplete
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\Palindromes\Palindromes.Tests\obj\Debug\netcoreapp2.2\Palindromes.Tests.pdb
