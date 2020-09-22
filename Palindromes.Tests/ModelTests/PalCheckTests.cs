@@ -12,5 +12,11 @@ namespace Palindromes.Tests
       PalCheck palCheck = new PalCheck();
       Assert.AreEqual(false , palCheck.IsPalindrome("hello"));
     }
+    [TestMethod]
+    public void IsPalindrome_IsAPalindrome_True()
+    {
+      PalCheck palCheck = new PalCheck();
+      Assert.AreEqual(true , palCheck.IsPalindrome("racecar"));
+    }
   }
 }
